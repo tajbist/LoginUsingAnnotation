@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LoginUsingAnnotation:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LoginUsingAnnotation.war">
+      <element id="artifact" artifact-name="LoginUsingAnnotation:war exploded" />
+    </root>
+  </artifact>
+</component>
